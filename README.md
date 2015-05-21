@@ -1,4 +1,4 @@
-# SIR model of infection - notebook for student exercises
+#SIR model of infection - notebook for student exercises
 
 A notebook created for the course on teaching and learning DTU, May 2015.
 
@@ -16,3 +16,9 @@ The second topic assits student's understanding of
 2. Which nodes should be vaccinated to effectively contain outbreaks.
 
 Suggested handouts to focus the group work are given in the handout.odt file.
+
+Python packages required:
+- NetworkX
+- Numpy
+- Matplotlib
+- Seaborn
