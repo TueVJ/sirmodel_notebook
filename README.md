@@ -6,11 +6,11 @@ The notebook is intended to be used by students learning about the SIR model of 
 Prior to the group work, the students should have learned the basic structure of the SIR model on a network.
 
 The first topic after the network initialization is intended to assist exploration of
-	1. How the number of infected scales with the infectivity p, and the concept of a critical p.
-	2. How the network structure impacts the critical p.
+1. How the number of infected scales with the infectivity p, and the concept of a critical p.
+2. How the network structure impacts the critical p.
 
 The second topic assits student's understanding of
-	1. The impact of immunization/vaccination.
-`	2. Which nodes should be vaccinated to effectively contain outbreaks.
+1. The impact of immunization/vaccination.
+2. Which nodes should be vaccinated to effectively contain outbreaks.
 
 Suggested handouts to focus the group work are given in the handout.odt file.
